@@ -1,0 +1,2 @@
+sudo apt-get install libplplot-dev
+sudo apt-get install libshp-dev

@@ -1,0 +1,28 @@
+[1]
+Objectif : Créer un widget d'affichage pour le nombre de CPU
+Technologies : libchronos gtk cairo
+Difficulté : moyen
+
+[2]
+Objectif : Améliorer le précedent widget pour prendre en compte les statistiques d'utilisation du CPU (pourcentage d'utilisation sur chaque coeur etc...)
+Difficulté : moyen
+
+[3]
+Objectif : Créer un widget d'affichage pour l'utilisation des disques dur (%)
+technologies : libchronos gtk cairo
+Difficulté : moyen
+
+[4]
+Objectif : Créer un widget d'affichage pour l'utilisation de la RAM
+technologies : libchronos gtk cairo
+Difficulté : moyen
+
+
+
+exemple de ce qui est attendu (pour le CPU, les disques, la ram) voir image :
+http://1.bp.blogspot.com/_JBHfzEovWs8/TNQOulwYr_I/AAAAAAAAA1s/R6lGJqWztIE/s1600/myconky-preview.png
+http://vindsl.com/images/vindsl-eeepc-17-feb-2013-1.png
+http://i15.tinypic.com/40m2wbc.png
+
+astuces : voir dossier chronos/libs/libcairo/examples/c/gtk3/transparent_window.c
+pour créer des fenêtres transparentes comme sur l'image précedente.
